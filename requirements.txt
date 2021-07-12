@@ -1,0 +1,8 @@
+larq
+larq-zoo
+pandas
+scipy
+numy
+tensorflow
+tensorflow-datasets
+zookeeper
