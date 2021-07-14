@@ -11,3 +11,10 @@ All the other files are versions of quicknet.
 To use, install the packages in the requirements file, then make local directories "weights" and "tabular." 
 Make sure you have ImageNet installed correctly, so that tfds (tensorflow-datasets) can see it and import it.
 
+
+~~~~~~~~~~~~~~~~~
+
+Only "fullest" and "trueControl" (a control) are relevant to the main experiment; 
+the other versions either include some vestigial batchnorms, or else include modifications that worsen performance.
+
+They are included for a more complete context.
