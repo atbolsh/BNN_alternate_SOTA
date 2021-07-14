@@ -16,3 +16,5 @@ Only "fullest" and "trueControl" (a control) are relevant to the main experiment
 the other versions either include some vestigial batchnorms, or else include modifications that worsen performance.
 
 They are included for a more complete context.
+
+More complete description about this project, its motivations and results can be found here: https://github.com/larq/zoo/discussions/334
