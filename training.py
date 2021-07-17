@@ -125,7 +125,7 @@ classNames = { 'control': lqz.sota.QuickNetSmall, # Control
 
 lrpairs = { 'control': (0.1, 0.01),\
             'modified': (0.1, 0.01),\
-            'fullest': (0.005, 0.0005),\
+            'fullest': (0.01, 0.001),\
             'remade': (0.01, 0.01),\
             'trueControl': (0.1, 0.01)}
 
